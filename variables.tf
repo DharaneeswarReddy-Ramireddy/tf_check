@@ -31,7 +31,7 @@ variable "availability_zone_2" {
 variable "peer_owner_id" {
   description = "AWS account ID for VPC peering connection"
   type        = string
-  default     = "123456789012" # Replace with your AWS Account ID
+  default     = "866934333672" # Replace with your AWS Account ID
 }
 
 variable "allowed_ports" {
